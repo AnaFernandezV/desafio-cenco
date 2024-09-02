@@ -1,0 +1,9 @@
+{
+  "name": "desafio-cenco",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/desafio-cenco",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project desafio-cenco --web",
+  "targets": {}
+}

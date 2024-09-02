@@ -1,0 +1,9 @@
+{
+  "name": "desafio-cenco-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/desafio-cenco-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["desafio-cenco"],
+  "// targets": "to see all targets run: nx show project desafio-cenco-e2e --web",
+  "targets": {}
+}
